@@ -1,5 +1,4 @@
 http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm
 
-Using the built-in image library called AFLW2000-3D for training data.
-2000 photos from the library have been tagged with 68-point 3D facial landmarks at the individual image level.
+Using the built-in image library called AFLW2000-3D for training data.2000 photos from the library have been tagged with 68-point 3D facial landmarks at the individual image level.
 The evaluation of 3D and 2D facial landmark detection methods frequently uses this dataset
